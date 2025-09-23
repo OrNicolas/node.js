@@ -1,0 +1,1 @@
+const ValorPi = () => {return 3.1415}

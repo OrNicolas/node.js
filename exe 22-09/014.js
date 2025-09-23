@@ -1,0 +1,1 @@
+const AreaTri = (largura, altura) => {console.log((largura*altura)/2)}
